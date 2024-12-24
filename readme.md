@@ -1,1 +1,4 @@
-This repository have all my NLP projects
+This repository have NLP Projects
+
+- Training Word2Vec from scratch
+- Training tokeniser from scratch
